@@ -40,12 +40,6 @@ nasser_experience= {
 
 ## My skills
 <p align="center">
-  <a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" height="40"/>
-  </a>
-  <a href="https://docs.celeryproject.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/celeryproject/celeryproject-icon.svg" alt="Celery" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
