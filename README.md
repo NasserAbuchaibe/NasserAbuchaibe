@@ -17,22 +17,22 @@
 ## About me
 ```python
 nasser_dict = {
-  "skills": [
-              "Python", "Django", "celery", "Docker", "PostgreSQL", "Linux", "HTML",
-              "CSS", "Js", "Bootstrap", "Ajax", "Bash", "MySQL", "Git", "Remote Teamwork"
-            ],
-  "tools": ["VS Code", "Github", "Bitbucket", "Sonarqube", "Postman", "VMware"],
-  "learning": ["Django", "Flask", "MongoDB", "JS", "Java"],
-  "email": "nasser.abuchaibe@gmail.com",
-  "my_articles": "https://www.linkedin.com/in/nasser-abuchaibe-b251159a/"
+      "skills": [
+                  "Python", "Django", "celery", "Docker", "PostgreSQL", "Linux", "HTML",
+                  "CSS", "Js", "Bootstrap", "Ajax", "Bash", "MySQL", "Git", "Remote Teamwork"
+                ],
+      "tools": ["VS Code", "Github", "Bitbucket", "Sonarqube", "Postman", "VMware"],
+      "learning": ["Django", "Flask", "MongoDB", "JS", "Java"],
+      "email": "nasser.abuchaibe@gmail.com",
+      "my_articles": "https://www.linkedin.com/in/nasser-abuchaibe-b251159a/"
 }
 ```
 ## Experience
 ```python
 nasser_experience= {
-  "Company": "Ikusi Latam",
-  "position": "Software Developer Engineer",
-  "Dates":"May 2022 - Present"
+    "Company": "Ikusi Latam",
+    "position": "Software Developer Engineer",
+    "Dates":"May 2022 - Present"
 }
 ```
 ## Github Stats
